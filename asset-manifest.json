@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/note-app/static/css/main.7d34bf7b.chunk.css",
+    "main.js": "/note-app/static/js/main.b90008b7.chunk.js",
+    "main.js.map": "/note-app/static/js/main.b90008b7.chunk.js.map",
+    "runtime-main.js": "/note-app/static/js/runtime-main.91f093c2.js",
+    "runtime-main.js.map": "/note-app/static/js/runtime-main.91f093c2.js.map",
+    "static/js/2.87d201e8.chunk.js": "/note-app/static/js/2.87d201e8.chunk.js",
+    "static/js/2.87d201e8.chunk.js.map": "/note-app/static/js/2.87d201e8.chunk.js.map",
+    "index.html": "/note-app/index.html",
+    "precache-manifest.82b0f3a4919945bd7bcd7d1110f1f566.js": "/note-app/precache-manifest.82b0f3a4919945bd7bcd7d1110f1f566.js",
+    "service-worker.js": "/note-app/service-worker.js",
+    "static/css/main.7d34bf7b.chunk.css.map": "/note-app/static/css/main.7d34bf7b.chunk.css.map",
+    "static/js/2.87d201e8.chunk.js.LICENSE.txt": "/note-app/static/js/2.87d201e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91f093c2.js",
+    "static/js/2.87d201e8.chunk.js",
+    "static/css/main.7d34bf7b.chunk.css",
+    "static/js/main.b90008b7.chunk.js"
+  ]
+}
